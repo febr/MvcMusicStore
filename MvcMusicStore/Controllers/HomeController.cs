@@ -16,7 +16,7 @@ namespace MvcMusicStore.Controllers
         //}
         public string Index()
         {
-            return "Home page2";
+            return "Home page3";
         }
     }
 }
